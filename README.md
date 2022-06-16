@@ -20,7 +20,7 @@ git clone https://github.com/bagusmaulana06/Responsive-eCommerce-CodeIgniter.git
 Replace the RajaOngkir API Key in the Rajaongkir config file with your API Key.
 
 
-## Email Settings (SMTP)
+## Email Settings (SMTP) 
 
 Change the Email Settings (SMTP) in the Email Helper file and the Admin Controller file with your email settings.
 
